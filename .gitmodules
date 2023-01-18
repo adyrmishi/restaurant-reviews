@@ -1,0 +1,3 @@
+[submodule "restaurant-reviews-frontend"]
+	path = restaurant-reviews-frontend
+	url = https://github.com/adyrmishi/restaurant-reviews-frontend.git
